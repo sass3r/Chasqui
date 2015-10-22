@@ -1,0 +1,13 @@
+{
+  "name": "blog",
+  "_cacheHeaders": {
+    "Last-Modified": "Fri, 06 Feb 2015 03:40:40 GMT",
+    "Content-Length": "2409",
+    "Content-Type": "text/css"
+  },
+  "main": "index.css",
+  "_source": "http://getbootstrap.com/examples/blog/blog.css",
+  "_target": "*",
+  "_originalSource": "http://getbootstrap.com/examples/blog/blog.css",
+  "_direct": true
+}
